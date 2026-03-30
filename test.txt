@@ -1,9 +1,8 @@
 hello
-<<<<<<< HEAD
+
 conflict 충돌을dfdffdfd
-일으키다dfdfdf
-=======
+일으키다dfdfdfwq
 conflict 충돌을
 일으키고 싶어요
 ㅎㅇ
->>>>>>> dev
+
