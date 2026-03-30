@@ -1,16 +1,3 @@
-hello
-conflict 충돌을dfdffdfd
-일으키다dfdfdfwq
-conflict 충돌을
-일으키고 싶어요
-ㅎㅇ
-<<<<<<< HEAD
 hello html
 hello java
 hello kotelin
-
-=======
-html 안녕
-자바 안녕
-코틀린 안녕
->>>>>>> main
